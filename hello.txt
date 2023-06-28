@@ -1,5 +1,6 @@
 Hello World ! Nous sommes mercredi !
 Hello
-Comment ça va ?
+
+Comment CA VA ?
 ça va bien et toi ?
 Oui oui très bien :)

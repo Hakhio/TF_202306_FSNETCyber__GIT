@@ -1,6 +1,7 @@
 Hello World ! Nous sommes mercredi !
 Hello
 
-Comment CA VA ?
+Comment CAVA ?
+
 ça va bien et toi ?
 Oui oui très bien :)
